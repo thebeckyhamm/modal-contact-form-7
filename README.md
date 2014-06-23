@@ -20,6 +20,7 @@ A way to add your contact form into a modal in WordPress.  Great for case study 
 ###2. Enqueue your CSS and JS for the modal
 
 Add the `modal.js` file and the `modal.css` file to your theme directory. Load them property by adding the following to your `functions.php` file in your theme:
+
 	function BH_scripts() {
 
 		// Make sure the file path is pointing to the folders where you added the files
